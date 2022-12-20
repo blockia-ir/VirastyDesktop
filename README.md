@@ -1,6 +1,11 @@
-# Virasty Desktop App
-Desktop app for Virasty
-
+<h1 align="center">
+Virasty Desktop App
+</h1>
+<div align="center">
+<p>Desktop app for Virasty</p>
+<img src="https://raw.githubusercontent.com/blockia-ir/VirastyDesktop/main/build/icon.png" width="160">
+</div>
+<hr>
 # Installation
 You must install Node.js and clone the project:  
 `git clone https://github.com/blockia-ir/VirastyDesktop`
