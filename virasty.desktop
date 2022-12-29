@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Virasty
+Comment=Virasty client
+Exec=/home/hossein/Downloads/Virasty-linux.AppImage
+Icon=/home/hossein/Downloads/icon.png
+Terminal=false
+Type=Application
+Categories=Network
